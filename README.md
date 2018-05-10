@@ -1,6 +1,6 @@
-# What´s that?
+# RGB colorchanger via Bluetooth - Arduino Sketch, case, eagle print
 
-Here you can get:
+##Here you can get:
 
 * A eagle print
 * A appropriate openscad case
