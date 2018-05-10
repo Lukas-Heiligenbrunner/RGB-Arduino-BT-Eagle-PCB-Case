@@ -12,7 +12,4 @@ The Android app is in a seperate Repo! <a href="https://github.com/Lukas-Heilige
 
 ### v1.1
 
-#### Changelog
-* -
-
 <a href="https://github.com/Lukas-Heiligenbrunner/RGB-Arduino-BT-Eagle-PCB-Case/archive/v1.1.zip">Download</a>
