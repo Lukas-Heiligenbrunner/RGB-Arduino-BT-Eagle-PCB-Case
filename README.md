@@ -1,5 +1,9 @@
 # What´s that?
 
-On this Repo you can get the Eagle files for the print and an aporopriate case.
+Here you can get:
 
-Have fun with them!
+* A eagle print
+* A appropriate openscad case
+* The Arduino sketch
+
+The Android app is in a seperate Repo! <a href="https://github.com/Lukas-Heiligenbrunner/RGB-Arduino-BT-App">HERE</a>
