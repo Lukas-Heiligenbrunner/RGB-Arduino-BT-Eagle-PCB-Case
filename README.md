@@ -8,6 +8,11 @@
 
 The Android app is in a seperate Repo! <a href="https://github.com/Lukas-Heiligenbrunner/RGB-Arduino-BT-App">HERE</a>
 
+## wiring:
+
+<img src="https://i.ibb.co/c2RgDWf/RGB-BT.png" width="750"  />
+
+
 ## Download links
 
 ### v1.1
